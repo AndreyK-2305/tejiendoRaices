@@ -82,7 +82,7 @@ function App() {
         <nav className="flex gap-8">
           <Link to="/" className="text-white font-semibold hover:underline">Inicio</Link>
           <a href="#comunidades" className="text-white font-semibold hover:underline">Comunidades</a>
-          <a href="#testimonios" className="text-white font-semibold hover:underline">Testimonios</a>
+          <Link to="/testimonios" className="text-white font-semibold hover:underline">Testimonios</Link>
           <Link to="/galeria" className="text-white font-semibold hover:underline">Galería</Link>
           <a href="#acerca" className="text-white font-semibold hover:underline">Acerca</a>
         </nav>
