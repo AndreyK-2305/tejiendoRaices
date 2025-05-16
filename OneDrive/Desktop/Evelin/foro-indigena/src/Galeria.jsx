@@ -32,6 +32,7 @@ function Galeria() {
               </button>
             ))}
           </div>
+          
           <div className="flex-1 flex sm:justify-end items-center gap-2">
             <button className="bg-green-200 text-green-900 font-bold px-4 py-2 rounded-full text-sm">Traductor IA</button>
             <span className="text-xs sm:text-sm text-gray-700">Español → Barí</span>
